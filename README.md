@@ -1,5 +1,7 @@
-Hello and welcome to my github page.  
+Hello and welcome to my GitHub page.  
 
-As you can see, it's a bit empty at the moment but stay tuned for updates!
+I've slowly begun to add some projects and repositories.
+
+Stay tuned for updates!
 
 I can be reached at: dkmkelley@gmail.com
